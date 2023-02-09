@@ -40,7 +40,7 @@ python app.py
 ![image](https://user-images.githubusercontent.com/54501048/217940594-44167d7b-6433-4479-abd1-1b3b5865aad5.png)
 > Home page, open elements
 
-![image](https://user-images.githubusercontent.com/54501048/217940757-07ecc06c-2ec0-4c35-88f2-aebbc102bd9a.png)
+![image](https://user-images.githubusercontent.com/54501048/217942460-720ace5b-e79d-40eb-8104-a41277801ed5.png)
 > Create page
 
 ## Contribution
